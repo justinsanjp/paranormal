@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/Sprache-Deutsch-black?style=for-the-badge" alt="Deutsch"></a>
+  <a href="README-en.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English"></a>
+</p>
+
 # 👻 Paranormal Toolkit
 
 Eine Android-App für paranormale Untersuchungen – EVP-Aufnahmen, Spektralanalyse, eine echte **GhostBox** über Radio-Hardware und eine sensorgesteuerte **GhostApp**.
@@ -75,8 +80,8 @@ Unterstützte RTL-SDR-Dongles (die App bietet sich beim Einstecken automatisch a
 Gebaut mit **Kotlin** und **Jetpack Compose** (Material 3), Java 17, compileSdk 36.
 
 ```bash
-git clone https://github.com/<user>/<repo>.git
-cd <repo>
+git clone https://github.com/justinsanjp/paranormal.git
+cd paranormal
 ./gradlew assembleDebug
 ```
 
