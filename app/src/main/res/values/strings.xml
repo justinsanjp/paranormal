@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paranormal Toolkit</string>
+    <string name="recording_notification_channel">EVP-Aufnahme</string>
+    <string name="recording_notification_title">EVP-Aufnahme läuft</string>
+    <string name="recording_notification_text">Antippen, um zur App zurückzukehren</string>
+    <string name="notification_tap_to_return">Antippen, um zur App zurückzukehren</string>
+    <string name="ghostapp_notification_channel">GhostApp-Session</string>
+    <string name="ghostapp_notification_title">GhostApp-Session läuft</string>
+</resources>
